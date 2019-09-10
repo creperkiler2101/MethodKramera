@@ -1,0 +1,6 @@
+﻿  MethodKramora.cpp
+C:\Users\opilane\Desktop\MethodKramora\MethodKramora\MethodKramora.cpp(143,27): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\opilane\Desktop\MethodKramora\MethodKramora\MethodKramora.cpp(149,30): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\opilane\Desktop\MethodKramora\MethodKramora\MethodKramora.cpp(184,29): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\opilane\Desktop\MethodKramora\MethodKramora\MethodKramora.cpp(187,31): warning C4018:  '<': signed/unsigned mismatch
+  MethodKramora.vcxproj -> C:\Users\opilane\Desktop\MethodKramora\Debug\MethodKramora.exe
